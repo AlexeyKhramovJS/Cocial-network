@@ -1,0 +1,18 @@
+.item {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.item img {
+    width: 100px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+.itemMsg span {
+    display: block;
+}
+
+.msg {
+    margin-bottom: 10px;
+}

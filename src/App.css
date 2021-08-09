@@ -1,0 +1,14 @@
+.app-wrapper {
+  display: grid;
+  grid-template-areas: 
+  "header header header "
+  "nav content content";
+  grid-template-rows: 80px 1fr;
+  grid-template-columns: 2fr 12fr;
+  font-family: 'Commissioner', sans-serif;  
+  background-color: #f5f5f5;
+}
+
+.content {
+  grid-area: content;
+}

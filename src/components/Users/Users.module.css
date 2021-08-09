@@ -1,0 +1,23 @@
+.userWrap {
+    padding: 20px;
+}
+
+.user {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.userPhoto img {
+    margin-right: 15px;
+    border-radius: 50%;
+}
+
+.userName {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.userStatus {
+    display: block;
+}

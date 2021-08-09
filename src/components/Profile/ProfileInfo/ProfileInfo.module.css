@@ -1,0 +1,53 @@
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+.descriptionBlock {
+  padding: 10px 20px;
+}
+
+.preview {
+  margin-bottom: 10px;
+}
+
+.preview div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.photo {
+  margin-right: 10px;
+}
+
+.name {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.about  {
+  padding: 10px 20px;  
+  border: 1px solid #e2e9e6;
+  background-color: white;
+}
+
+.about>span {
+  display: block;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e2e9e6;
+}
+
+.aboutList {
+  display: flex;
+  margin-top: 10px;
+}
+
+.aboutPoint {
+  margin-right: 60px;
+}
+
+.aboutPoint span {
+  display: block;
+  margin-bottom: 10px;
+}

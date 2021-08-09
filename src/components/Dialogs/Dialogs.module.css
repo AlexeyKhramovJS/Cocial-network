@@ -1,0 +1,40 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding: 20px;
+}
+
+.dialogItems {
+}
+
+.dialog {
+
+}
+
+.active{
+    color: #26a69a;
+}
+
+.messages {
+    
+}
+
+.messagesHeader input{
+    padding: 10px;
+    width: 87%;
+}
+
+.messagesHeader button {
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #fff;
+    background-color: #26a69a;
+}
+
+.messagesHeader button:hover {
+    cursor: pointer;
+}
+
+.messagesBody {
+
+}
